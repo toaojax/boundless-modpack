@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "minecraftVersion": "1.21.11",
-  "fabricVersion": "0.15.7",
+  "fabricVersion": "0.18.4",
   "releaseUrl": "https://github.com/toaojax/boundless-modpack/releases/download/1.0/boundless-modpack-a1.0.zip",
   "changelog": [
     "Initial release of Boundless",
-    "Fabric 0.15.7 on Minecraft 1.21.11",
+    "Fabric 0.18.4 on Minecraft 1.21.11",
     "60+ mods included for a AAA experience"
   ]
 }

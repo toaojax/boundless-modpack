@@ -1,2 +1,2 @@
-# boundless-modpack
+# Boundless Modpack
 Minecraft. Reimagined. New launcher, things to explore, new feel, new Minecraft.
